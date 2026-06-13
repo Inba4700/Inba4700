@@ -189,7 +189,7 @@ focus:
 <td>
 
 ### Data Engineer — FinTech Software Solution
-![Date](https://img.shields.io/badge/Aug%202023–Present-Chennai%2C%20India-6A0DAD?style=flat-square)
+![Date](https://img.shields.io/badge/JUL%202023–Present-Chennai%2C%20India-6A0DAD?style=flat-square)
 
 Building enterprise data engineering solutions for investment banking and capital markets clients. Responsible for the full lifecycle of data platform development — from ingestion architecture and pipeline development to data modelling, orchestration, performance tuning, and production operations.
 
