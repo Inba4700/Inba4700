@@ -156,13 +156,7 @@ focus:
 > **Enterprise-grade cloud data lakehouse** built to centralise and process high-volume investment banking data across trade lifecycle, securities, equities, fixed income, reference data, and market data — serving regulatory reporting, risk analytics, and executive BI.
 
 <div align="center">
-
-  - uses: crazy-max/ghaction-github-pages@v3
-    with:
-      target_branch: output
-      build_dir: dist
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  <img src="https://raw.githubusercontent.com/inbarasan-s/inbarasan-s/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
 **Engineering Scope:**
