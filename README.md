@@ -157,15 +157,12 @@ focus:
 
 <div align="center">
 
-| Attribute | Details |
-|---|---|
-| **Stack** | AWS Glue · PySpark · Python · SQL · Databricks · Delta Lake · Apache Airflow · Amazon S3 · Amazon Redshift · Snowflake |
-| **Scale** | High-volume structured & semi-structured financial datasets across multiple investment banking source systems |
-| **Performance** | Optimised PySpark workloads via partitioning, caching, Delta optimisation, broadcast joins, and query tuning |
-| **Security** | AWS IAM role-based access, S3 encryption, Databricks cluster policies, audit logging |
-| **Impact** | Enabled centralised data lakehouse for capital markets analytics, executive reporting, and regulatory compliance |
-| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/inbarasan-s) |
-
+  - uses: crazy-max/ghaction-github-pages@v3
+    with:
+      target_branch: output
+      build_dir: dist
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 </div>
 
 **Engineering Scope:**
